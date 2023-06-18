@@ -1,2 +1,2 @@
-openai_key = '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'
+openai_key = ''
 model = 'text-davinci-003'
